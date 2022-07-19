@@ -2,6 +2,9 @@
 nice
 
 ```
+# as main user
+$ sudo mkdir -m 0755 /nix && sudo chown proto /nix
+
  Install Nix in single-user mode
 # https://nixos.org/download.html
 $ sh <(curl -L https://nixos.org/nix/install) --no-daemon

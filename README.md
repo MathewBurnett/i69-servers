@@ -1,6 +1,7 @@
 # i69-servers
 nice
 
+```
  Install Nix in single-user mode
 # https://nixos.org/download.html
 $ sh <(curl -L https://nixos.org/nix/install) --no-daemon
@@ -24,3 +25,4 @@ do you want to permanently mark this value as trusted (y/N)? y
 Using Breakpad minidump system. Version: 7341704 AppID: 232250
 Setting breakpad minidump AppID = 232250
 ...
+```
